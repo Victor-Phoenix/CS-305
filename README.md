@@ -1,4 +1,5 @@
-Summary of the Client and Their Requirements
+Summary of the Client and Their Requirements:
+
 The client, Artemis Financial, is a financial consulting company that helps clients with personalized financial plans. They needed secure software to protect sensitive client data. Specifically, they wanted to implement a file verification step using a checksum and secure communication through HTTPS.
 
 Identifying and Addressing Vulnerabilities
